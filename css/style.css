@@ -1,0 +1,10 @@
+.banner-main {
+    background-color: rgba(231, 111, 81, 0.1);
+}
+
+.wrapper {
+    background-image: url(../images/bike-3.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
